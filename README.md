@@ -4,3 +4,9 @@
 
 ## 技术栈
 puppeteer + nodejs + ES6/7 + axios
+
+## 运行
+``` javascript
+npm install
+npm run start
+```
